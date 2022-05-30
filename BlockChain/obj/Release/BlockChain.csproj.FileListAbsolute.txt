@@ -1,0 +1,12 @@
+C:\Adavance Computer Science\BlockChain\BlockChain\bin\Release\BlockChain.exe.config
+C:\Adavance Computer Science\BlockChain\BlockChain\bin\Release\BlockChain.exe
+C:\Adavance Computer Science\BlockChain\BlockChain\bin\Release\BlockChain.pdb
+C:\Adavance Computer Science\BlockChain\BlockChain\bin\Release\Newtonsoft.Json.dll
+C:\Adavance Computer Science\BlockChain\BlockChain\bin\Release\Newtonsoft.Json.xml
+C:\Adavance Computer Science\BlockChain\BlockChain\obj\Release\BlockChain.Form1.resources
+C:\Adavance Computer Science\BlockChain\BlockChain\obj\Release\BlockChain.Properties.Resources.resources
+C:\Adavance Computer Science\BlockChain\BlockChain\obj\Release\BlockChain.csproj.GenerateResource.cache
+C:\Adavance Computer Science\BlockChain\BlockChain\obj\Release\BlockChain.csproj.CoreCompileInputs.cache
+C:\Adavance Computer Science\BlockChain\BlockChain\obj\Release\BlockChain.csproj.CopyComplete
+C:\Adavance Computer Science\BlockChain\BlockChain\obj\Release\BlockChain.exe
+C:\Adavance Computer Science\BlockChain\BlockChain\obj\Release\BlockChain.pdb
